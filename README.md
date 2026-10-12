@@ -6,6 +6,9 @@ For ways to *support* us, see [this announcement on the forum](https://www.letsc
 
 # ESPEasy (development branch)
 
+> Status: Reference — reviewed 2026-10-12
+
+
 
 Introduction and wiki: https://www.letscontrolit.com/wiki/index.php/ESPEasy#Introduction
 
